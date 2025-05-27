@@ -1,0 +1,28 @@
+# Core Libraries
+numpy
+pandas
+
+# Text Processing
+nltk
+beautifulsoup4
+lxml
+regex
+spacy
+
+# Vectorization & Embeddings
+scikit-learn
+gensim
+
+# Deep Learning
+tensorflow
+keras
+
+# Graphs & Plotting
+matplotlib
+seaborn
+networkx
+
+# Miscellaneous
+tqdm
+requests
+python -m spacy download en_core_web_sm
